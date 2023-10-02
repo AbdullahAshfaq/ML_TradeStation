@@ -1,3 +1,7 @@
+# Architecture Diagram
+![alt text](https://github.com/AbdullahAshfaq/ML_TradeStation/tree/main/images/e2e_stream_pipeline.svg?raw=true)
+
+
 # Flow 1
 
 Finnhub -> Kafka (Topic = Symbol) -> Flink -> MySQL
