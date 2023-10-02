@@ -1,0 +1,4 @@
+credentials.py
+*.jar
+__pycache__
+*/__pycache__

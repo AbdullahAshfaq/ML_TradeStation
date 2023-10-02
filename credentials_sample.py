@@ -1,0 +1,2 @@
+# Finnhub API Key
+API_KEY='FINNHUB_API_KEY'
