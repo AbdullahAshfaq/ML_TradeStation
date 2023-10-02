@@ -1,6 +1,5 @@
 # Architecture Diagram
-![alt text](https://github.com/AbdullahAshfaq/ML_TradeStation/tree/main/images/e2e_stream_pipeline.svg?raw=true)
-
+![Pipeline](/images/e2e_stream_pipeline.svg)
 
 # Flow 1
 
